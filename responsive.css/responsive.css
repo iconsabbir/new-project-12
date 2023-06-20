@@ -1,0 +1,994 @@
+@media (max-width:1280px) {
+    
+
+.header-section{
+    width: 99%;
+}
+
+
+.header-section{
+    
+}
+
+.logo img{
+    margin-left: 50px;
+}
+
+ .fast-section-bg{
+        
+    }
+
+
+.fast-section{
+    width: 82%;
+}
+
+.success img{
+    width: 100%;
+}
+.success-man{
+    margin-top: 90px;
+    margin-left: 42px;
+}
+.success-man h3{
+    padding:8px 0 8px 0 ;
+    font-size: 14px;
+}
+
+.success-man span{
+    margin-left: 25px;
+}
+    
+.success-man h1{
+    font-size: 35px;
+}
+
+.success-man .doler{}
+
+.help-content{
+    max-width: ;
+}
+.lern-flex{
+    
+}
+
+.coffi-2 h4{
+    padding: 8px 0 14px 26px;
+  
+}
+.coffi-1 img{
+    width: 100%;
+}
+
+.coffi-2{
+    margin-left: 0;
+
+}
+.coffi-2 h1{
+    padding: 30px 0 10px 24px;
+}
+
+.coffi-2 p{
+    padding: 6px 0 10px 22px;
+    
+}
+.coffi-2 button{
+    padding:12px 25px;
+    margin-bottom: 40px;
+    margin-top: 8px;
+}
+.coffi-3 h1{
+    padding: 45px 0 10px 26px;
+
+}
+.coffi-3 button{
+    margin-bottom: 61px;
+}
+
+.coffi-6 h1{
+        padding: 22px 0 10px 20px;
+}
+
+.coffi-6 button{
+    margin-bottom: 22px;
+}
+
+/*help-content end*/
+
+.smart-section{
+ 
+}
+
+.smart-content button{
+    margin-bottom: 700px;
+    padding: 10px 48px;
+}
+.but-1{
+    padding: 10px 48px;
+}
+
+.smart-content h5{
+    width: 70%;
+    margin-left: 150px;
+
+}
+
+.smart-man img{
+        margin-left: 20%;
+        width: 800px;
+        height: 800px;
+        margin-top: -500px;
+}
+
+.man-content{
+    padding: 0 50px 0 0;
+    width: 40%;
+}
+
+.man-content h1{
+    width: 90%;
+}
+
+.man-content h5{
+    width: 98%;
+}
+
+/*smart section end*/
+
+.digitel-section{
+
+}
+.about-section{
+    width: 70%;
+}
+.clint-about h5{}
+.about-section h2{
+    margin-left: 40px;
+}
+
+.about-section h1{
+    font-size: 40px;
+    
+    width: 70%;
+}
+
+.clint-about{
+    margin-left: 60px;
+}
+
+
+
+.about-section-2{
+    margin-right: 100px;
+}
+.icon-1 img{
+    width:36%;
+
+}
+.icon-ff img{
+    margin-top: 40px;
+}
+/*digitel-section end*/
+
+
+
+
+.Professtion-section{
+    max-width: 90%;
+}
+.watch-conten{
+    margin-left: 100px;
+}
+.watch-conten h1{
+    font-size: 40px;
+}
+.watch-conten h5{
+    padding: 52px 0 18px 0;
+    font-size: 16px;
+}
+.watch-conten p{
+    font-size: 17px;
+}
+.watch-photo{
+    margin-left: 100px;
+}
+.watch-photo img{
+    width: 600px;
+    backface-visibility: hidden;
+  
+}
+
+.customer-section{}
+
+
+.customer-flex{}
+
+.customer-1{
+    
+}
+.customer-identi-1 img{
+    
+}
+
+.chever-right{
+    
+}
+
+.customer-identi-2{
+    width: 100%;
+    padding: 30px 40px 55px 30px;
+}
+
+/*customer section end*/
+
+.light-section{}
+
+.light-conten{
+    padding: 100px 0 251px 200px;
+}
+
+.Creative{
+    margin-left: 100px;
+    width: 700px;
+    margin-top: -200px;
+}
+
+}
+
+
+
+
+
+@media (max-width:991px) {
+    
+.header-section{
+    padding: 24px;
+}
+
+.logo{
+    
+}
+ .logo img{
+    max-width: 18%;
+   margin-right: 30px;
+   
+ }
+ .nav-bar ul{
+    align-items: center;
+ }
+
+ .nav-bar{
+    margin-left: 200px;
+    padding: 0 10px 0 10px;
+    
+ }
+ .nav-bar ul li a{
+    font-size: 15px;
+    padding: 0 10px;
+ }
+
+ .nav-bar button{
+    padding: 5px 8px;
+ }
+
+/*nave section end*/
+
+
+
+.fast-section-bg{}
+
+.fast-section{}
+
+.success img{
+    width: 100%;
+    margin-top: 10px;
+}
+.success-man{
+    margin-top:30px ;
+    width: 80%;
+    margin-left: 80px;
+}
+.success-man h3{
+    padding: 8px 0 8px 0;
+    font-size: 13px;
+}
+
+.success-man span{}
+.success-man h1{
+    font-size: 30px;
+}
+.success-man .doler{
+    font-size: 30px;
+}
+.success-man p{
+    padding: 8px 0;
+    font-size: 14px;
+}
+.success-man .more{
+    padding: 12px 46px;
+    margin: 5px 0;
+}
+
+.success-man p a{
+    margin-bottom: 0;
+}
+
+
+.icon12{
+    flex-wrap: wrap;
+}
+.icon13{
+    flex-wrap: wrap-reverse;
+}
+.icon14{
+    flex-wrap: wrap;
+}
+
+
+
+
+.smart-section{
+    margin-bottom: 500px;
+}
+.smart-content{
+    padding: 40px;
+    text-align: center;
+}
+.smart-content h1{
+    font-size: 42px;
+    margin-bottom: 32px;
+}
+.smart-content h5{
+    width: 52%;
+    margin-bottom: 32px;
+}
+
+.smart-content button{
+    margin-bottom: 580px;
+}
+.smart-man img{
+    margin-left: 10%;
+    width: 710px;
+    height: 710px;
+}
+.man-content{
+        margin-top: -100px;
+        margin-left: 50%;
+}
+
+.man-content h1{
+    font-size: 30px;
+    width: 58%;
+    font-weight: 700;
+}
+.man-content h5{}
+.man-content p{}
+
+
+/*smart-section end*/
+
+
+
+
+.item-father{
+    flex-wrap: wrap;
+}
+
+.item-1 p{
+    width: 75%;
+    margin-left: 40px;
+}
+
+
+
+
+
+
+
+
+/* item section end*/
+
+.digitel-section{
+    margin-top: 26px;
+    margin-left: 20px;
+    margin-bottom: 50px;
+}
+
+.digitel-flex{}
+.clint-about{
+    margin-left: 20px;
+}
+
+.clint-about button{}
+.about-section{
+    width: 90%;
+    padding: 10px 15px 10px 20px;
+}
+.clint-about h5{}
+.about-section h2{
+    margin-left: 30px;
+    padding: 32px 0 0 0;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.about-section h1{
+    margin-left: 26px;
+    padding: 12px 5px 40px 5px;
+    font-size: 26px;
+}
+.clint-about p{
+    width: 80%;
+    margin-top: 35px;
+    margin-bottom: 18px;
+    font-size: 14px;
+}
+.clint-about h5{
+    margin-bottom: 20px;
+    font-size:12px ;
+}
+
+
+.about-section-2{
+    margin-left: 50px;
+}
+.icon-1{
+    padding: 0 0 36px 0;
+}
+
+
+.icon-1 img{
+    width: 55%;
+   
+    margin-top: 20px;
+}
+
+
+
+.icon-ff img{
+    width: 70px;
+    padding: 16px;
+    margin-right: 400px;
+}
+
+.icon-2 span{}
+
+.icon-2 h3{
+    font-size: 18px;
+    padding: 50px 0 10px 0;
+    width: 60%;
+    margin-left: 100px;
+    
+    
+  
+}
+.icon-2 p{
+    width: 64%;
+    margin-left: 80px;
+    margin-bottom: 12px;
+
+}
+.icon-ff-2{}
+.icon-ff-2 img{
+    width: 70px;
+    width: 70px;
+    padding: 16px;
+    margin-right: 400px;
+}
+.icon-3 h3{
+    font-size: 18px;
+    padding: 50px 0 10px 0;
+    width: 60%;
+    margin-left: 100px;
+    
+}
+.icon-3 p{
+    width: 64%;
+    margin-left: 80px;
+    margin-bottom: 22px;
+}
+.icon-3 span{
+    margin-left: 8px;
+}
+/*digitel-section end*/
+
+
+.Professtion-section{
+    
+}
+
+
+.watch-section-flex{
+    flex-wrap: wrap;
+}
+.watch-conten{
+    text-align: center;
+    
+}
+.watch-conten h5{
+    padding: 40px 0 12px 0;
+    font-size: 16px;
+
+}
+.watch-conten h1{
+    font-size: 35px;
+    font-weight: 700;
+  
+}
+.watch-conten span{}
+
+.watch-conten p{
+    font-size: 20px;
+    
+  
+}
+.watch-conten h4{}
+.watch-conten button{}
+
+.watch-photo{
+    
+}
+.watch-photo img{
+    width: 600px;
+   
+  
+}
+/*Professtion-section end*/
+
+.customer-flex{
+    flex-wrap: wrap;
+}
+.customer-identi{
+    flex-wrap: wrap-reverse;
+}
+.customer-identi-1 img{
+    width: 136%;
+}
+.customer-identi-2 {
+    text-align: center;
+}
+
+/*customer section end*/
+
+
+.light-conten{
+    margin-top: -100px;
+    padding: 100px 0 150px 200px;
+}
+.Creative{
+    width: 600px;
+    margin-left: 20px;
+    
+}
+/*light section end*/
+
+.methods-all h4{
+    padding:120px 0 40px 0;
+    
+    font-size: 40px;
+}
+.methods-flexs{
+ flex-wrap: wrap;
+    
+}
+
+.methods-card{
+position: relative;
+}
+
+.mathods-laptop{
+    margin-top: -100px;
+}
+
+.bottom-media h1{
+    padding: 14px 30px 6px 6px;
+    font-size: 30px;
+}
+
+.bottom-media h2{
+    padding: 14px 30px 6px 6px ;
+}
+
+
+.bottom-media p{
+    padding: 10px 30px 6px 6px;
+}
+
+.bottom-socile a i{
+    padding: 6px 8px;
+    margin-left: 0;
+    font-size: 18px;
+}
+
+
+
+
+
+
+}
+
+
+@media (max-width:770px){
+
+
+.nav-bar{
+    display: none;
+}
+.manu-bar{
+    display: block;
+    text-align: right;
+    align-items: center;
+    font-size: 30px;
+}
+
+.header-section{
+    padding: 24px;
+}
+
+.logo{
+    
+}
+ .logo img{
+    max-width: 18%;
+   margin-right: 30px;
+   
+ }
+ .nav-bar ul{
+    align-items: center;
+ }
+
+ .nav-bar{
+    margin-left: 200px;
+    padding: 0 10px 0 10px;
+    
+ }
+ .nav-bar ul li a{
+    font-size: 15px;
+    padding: 0 10px;
+ }
+
+ .nav-bar button{
+    padding: 5px 8px;
+ }
+
+/*nave section end*/
+
+
+
+.fast-section-bg{}
+
+.fast-section{
+    flex-wrap: wrap-reverse;
+}
+
+.success img{
+    width: 100%;
+    margin-top: 10px;
+}
+.success-man{
+    margin-top:30px ;
+    width: 80%;
+    margin-left: 126px;
+    text-align: center;
+}
+
+
+
+.success-man h1{
+    font-size: 25px;
+}
+.success-man .doler{
+    font-size: 30px;
+   
+}
+.success-man p{
+    padding: 8px 0;
+    font-size: 14px;
+}
+.success-man .more{
+    padding: 12px 46px;
+    margin: 5px 0;
+}
+
+.success-man p a{
+    margin-bottom: 0;
+}
+
+
+
+
+
+
+
+.content h1{
+    font-size: 30px;
+}
+.content p{
+    font-size: 10px;
+}
+.icon12{
+    flex-wrap: wrap;
+}
+.icon13{
+    flex-wrap: wrap-reverse;
+}
+.icon14{
+    flex-wrap: wrap;
+}
+
+
+
+
+.smart-section{
+    margin-bottom: 500px;
+}
+.smart-content{
+    padding: 40px;
+    text-align: center;
+}
+.smart-content h1{
+    font-size: 30px;
+    margin-bottom: 32px;
+}
+.smart-content h5{
+    width: 52%;
+    margin-bottom: 32px;
+    font-size: 15px;
+}
+
+.smart-content button{
+    margin-bottom: 600px;
+    
+    padding: 10px 24px;
+    font-size: 12px;
+   
+    
+
+}
+.smart-man img{
+    margin-left: 10%;
+    width: 510px;
+    height: 510px;
+    margin-top: -550px;
+}
+
+.man-content{
+    margin-left: 28%;
+    margin-top: -200px;
+    width: 50%;
+}
+
+.man-content h1{
+    font-size: 24px;
+}
+
+.man-content h5{
+    font-size: 15px;
+}
+.man-content button{
+    padding: 12px 22px;
+    font-size: 12px;
+}
+
+
+/*smart section end*/
+
+.item-father{
+    flex-wrap: wrap;
+    display: block;
+
+ 
+   
+    
+}
+.item-1 h1{
+    font-size: 30px;
+
+}
+
+.item-1 p{
+    width: 70%;
+    margin-left: 40px;
+    font-size: 16px;
+}
+
+.digitel-flex{
+    flex-wrap: wrap;
+}
+/* item section end*/
+
+
+
+
+.about-section{
+    width:60%;
+   
+
+
+
+}
+
+.about-section h1{
+    font-size: 28px;
+}
+.clint-about p{
+   font-size: 22px;
+}
+.clint-about h5{
+font-size: 20px;
+margin-top: 30px;
+}
+.about-section h1{}
+
+.clint-about button{
+    margin-bottom: 60px;
+  
+}
+
+.icon-1 img{
+    width: 90%;
+}
+
+/*digitel-section end*/
+
+
+
+
+
+
+
+.Professtion-section{
+    
+    max-width: 100%;
+}
+
+
+
+.watch-conten{
+   text-align: center;
+   margin-left: 20px;
+}
+.watch-conten h5{
+    font-size: 14px;
+
+}
+.watch-photo img{
+    width: 500px;
+    
+    
+}
+.watch-conten h1{
+    font-size: 30px;
+}
+
+
+.watch-conten p{
+    font-size: 14px;
+}
+
+.watch-conten h4{
+    font-size: 14px;
+}
+
+
+.watch-conten button{
+    padding: 12px 22px;
+    margin-bottom: 20px;
+}
+
+/*Professtion-section end*/
+
+
+
+
+
+.Creative{
+  margin-left: 0;
+max-width: 400px;
+margin-top: -150px;
+}
+.Creative h1{
+    padding: 15px 0;
+
+}
+.Creative p{
+    font-size: 14px;
+    width: 300px;
+}
+
+/*light section end*/
+
+
+.methods-all h4{
+    font-size: 35px;
+}
+
+
+.methods-flexs{
+    flex-wrap: wrap;
+    margin-left: 200px;
+   
+}
+
+
+.methods-card{
+    position: relative;
+    
+    
+}
+.methods-card h1{
+   
+   
+}
+
+.bottom-conten-flex{
+    flex-wrap: wrap;
+}
+
+
+
+
+
+
+.customer-identi-1 img{
+    width: 100%;
+}
+
+
+
+
+
+.bottom-media h1{
+    margin-bottom: 20px;
+}
+
+
+.bottom-socile a i{
+    margin-bottom: 30px;
+}
+
+
+.call-section{
+    margin-bottom: 30px;
+}
+.detels input{
+    padding: 10px 55px;
+}
+
+.laceholder-section{
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
